@@ -1,3 +1,17 @@
+
+# The Most Useless Quiz 🤡
+
+A chaotic personality quiz that judges your love life, college drama, hostel stories, and questionable life decisions.
+
+- 🎭 Discover your completely unnecessary personality type.
+- 🔀 Random questions and unexpected follow-ups.
+- 🔥 Funny reactions, roasts, and ridiculous results.
+- 💀 Get judged based on your choices.
+- 🌐 **Live Demo:** https://quizstuff.vercel.app
+
+**Disclaimer:** Take it seriously. The quiz certainly doesn't.
+
+
 # The Most Useless Quiz
 
 React + Vite + Framer Motion. No backend.
